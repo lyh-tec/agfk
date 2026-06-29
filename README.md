@@ -1,10 +1,12 @@
-# 仓库文件下载
+# 下载
 
-下面两个文件直接点击即可下载（使用 raw.githubusercontent.com 的直接链接）：
+点击下面的文件名即可下载（文件名为可点击的蓝色超链接）：
 
-- [三维弹球.zip](https://raw.githubusercontent.com/lyh-tec/agfk/main/%E4%B8%89%E7%BB%B4%E5%BC%B9%E7%90%83.zip) — 点击后浏览器会开始下载 ZIP 文件。
-- [贪吃蛇3.0.apk](https://raw.githubusercontent.com/lyh-tec/agfk/main/%E8%B4%AA%E5%90%83%E8%9B%873.0.apk) — 点击后浏览器会开始下载 APK 文件。
+- [三维弹球.zip](https://raw.githubusercontent.com/lyh-tec/agfk/main/%E4%B8%89%E7%BB%B4%E5%BC%B9%E7%90%83.zip)
+- [贪吃蛇3.0.apk](https://raw.githubusercontent.com/lyh-tec/agfk/main/%E8%B4%AA%E5%90%83%E8%9B%873.0.apk)
 
 说明：
-- 这些链接指向仓库的 raw 文件，浏览器通常会为 ZIP 和 APK 触发下载。若某些浏览器在页面中预览了文件（罕见），可以右键 -> “另存为” 来保存文件。
-- 若你想让用户在一个更美观的页面下载（例如带按钮或样式），我可以为你创建一个 `docs/index.html`（GitHub Pages）来托管下载页面；或者发布为 Release 以作为资产下载。
+- 在 GitHub 上，Markdown 链接的文字默认显示为蓝色，用户点击后浏览器通常会弹出“保存/下载”的对话框或直接开始下载。若没有弹出，请尝试右键 -> “另存为”。
+- 下载 APK 时，浏览器或手机可能会显示安全提示，这是正常的。
+
+如果你希望链接用按钮样式或一个更美观的页面（GitHub Pages），我可以接着为你创建 `docs/index.html` 并启用页面。
